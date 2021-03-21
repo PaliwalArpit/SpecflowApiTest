@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecGlowGitTest", "SpecGlowGitTest\SpecGlowGitTest.csproj", "{70F3B7FB-EB42-4C32-97C7-13810354E1F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITest", "APITest\APITest.csproj", "{17FA064A-93B1-4757-BE20-DC786E89FE20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F3B7FB-EB42-4C32-97C7-13810354E1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F3B7FB-EB42-4C32-97C7-13810354E1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F3B7FB-EB42-4C32-97C7-13810354E1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F3B7FB-EB42-4C32-97C7-13810354E1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FA064A-93B1-4757-BE20-DC786E89FE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FA064A-93B1-4757-BE20-DC786E89FE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FA064A-93B1-4757-BE20-DC786E89FE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FA064A-93B1-4757-BE20-DC786E89FE20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6504603-302F-4898-9389-8C282B24A963}
+	EndGlobalSection
+EndGlobal
